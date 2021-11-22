@@ -1,16 +1,13 @@
-# ecom
+# This iS a Beautiful Ui created From Velocityx
+Thanks to Mr.Pawan Kumar(Codepur) for Guidance.
 
-A new Flutter project.
+Link:https://pub.dev/packages/velocity_x
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Login Page:
+![login](https://user-images.githubusercontent.com/71628177/142817286-09f6fa52-88e8-4ef1-ae18-6fc2382f55c1.gif)
 
-A few resources to get you started if this is your first Flutter project:
+# Main UI:
+![baseUI](https://user-images.githubusercontent.com/71628177/142817339-e4e06a1a-ff6e-4110-b687-3cb6ab1d7576.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
